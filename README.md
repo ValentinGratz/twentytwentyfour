@@ -1,3 +1,13 @@
+# Archived repository
+
+**This theme has been merged into the WordPress Core SVN repository, and is no longer maintained on GitHub.**
+
+**Tickets to report bugs or make feature requests can be [opened against the Bundled Themes component](https://core.trac.wordpress.org/newticket?component=Bundled+Theme) on trac.**
+
+**Browse open issues: https://core.trac.wordpress.org/search?q=twenty+twenty-four.**
+
+---
+
 # Twenty Twenty-Four
 
 Welcome to the development repository for the default theme that will launch with [WordPress 6.4](https://make.wordpress.org/core/6-4/).
@@ -10,7 +20,7 @@ You can view a demo of this theme at [2024.wordpress.net](https://2024.wordpress
 
 ## Contributing
 
-If you would like to contribute code, the list of [open issues](https://github.com/WordPress/twentytwentyfour/issues) is a great place to start looking for tasks — but contributing is not just for developers. There are many opportunities to help with testing, triage, discussion, design, building [patterns](https://github.com/WordPress/twentytwentyfour/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5BComponent%5D+Block+Patterns%22) and templates, and more. 
+If you would like to contribute code, the list of [open issues](https://core.trac.wordpress.org/search?q=twenty+twenty-four) is a great place to start looking for tasks — but contributing is not just for developers. There are many opportunities to help with testing, triage, discussion, design, building patterns and templates, and more. 
 
 If you'd like to help with triage, let @luminuu and @MaggieCabrera know in [WordPress.org's Slack instance](https://make.wordpress.org/chat/). We'll help you get set up with the ability to add labels to issues and PRs.
 
@@ -38,7 +48,6 @@ As a default WordPress theme, it is important to leverage the existing design sy
 |------------|-----------------------------|-----------|------|--------|----------------------------------------------------------|
 | `Base/One` | `--wp--preset--color--base` | `#f9f9f9` | Base | `base` | ![](https://placehold.co/15x15/f9f9f9/f9f9f9.png) |
 | `Base/Two` | `--wp--preset--color--base-2` | `#ffffff` | Base / Two | `base-2` | ![](https://placehold.co/15x15/ffffff/ffffff.png) |
-| `Base/Three` | `--wp--preset--color--base-3` | `#00000025` | Base / Three | `base-3` | ![](https://placehold.co/15x15/00000025/00000025.png) |
 | `Contrast/One` | `--wp--preset--color--contrast` | `#111111` | Contrast | `contrast` | ![](https://placehold.co/15x15/111111/111111.png) |
 | `Contrast/Two` | `--wp--preset--color--contrast-2` | `#636363` | Contrast / Two | `contrast-2` | ![](https://placehold.co/15x15/636363/636363.png) |
 | `Contrast/Three` | `--wp--preset--color--contrast-3` | `#a4a4a4` | Contrast / Three | `contrast-3` | ![](https://placehold.co/15x15/a4a4a4/a4a4a4.png) |

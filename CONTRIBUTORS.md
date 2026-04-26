@@ -51,7 +51,7 @@
 | @scruffian | @scruffian |
 | @alexandrebuffet | @alexandrebuffet |
 | @gpotter | @gpotter |
-| @michaelshowes | |
+| @michaelshowes | @mshowes |
 | @lefty55104 | @pbwebd |
 | @anphira | @anphira |
 | @rebekahmarkowitz | @rebekowitz |
@@ -120,3 +120,8 @@
 | @nilovelez | @nilovelez |
 | @swissspidy | @swissspidy |
 | @Yari2u | @yari2u |
+| @andersnoren | @anlino |
+| @SavPhill | @phillsav |
+| @cybeardjm | @didierjm |
+| @fabiorubioglio | @fabiorubioglio |
+| @KevinTaron | @ktaron |
